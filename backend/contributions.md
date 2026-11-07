@@ -1,6 +1,6 @@
 # Backend case study: re-architecting an image-ingestion pipeline
 
-> **DRAFT. Requires confidentiality review and company approval before publishing.** Describes my own contribution to a private codebase; contains no company source code, endpoints, identifiers or infrastructure names.
+> Describes my own contribution to a project whose repositories are private and can't be made public. This is an overview only: it contains no source code, endpoints, identifiers or infrastructure names.
 
 [← Back to portfolio](../README.md) · Companion: [Frontend case study](../frontend/contributions.md)
 

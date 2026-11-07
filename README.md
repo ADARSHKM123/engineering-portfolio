@@ -1,12 +1,14 @@
 # Adarsh KM: Full-Stack Engineering Portfolio
 
-> **DRAFT. Requires confidentiality review and company approval before publishing.**
+> **Note:** The project described here is the one I have contributed to the most. It lives in **private repositories that I can't make public**, so this repository is only an overview of my work, not the project itself. No source code is included.
 
 I'm a full-stack software engineer. I build React front ends and Node.js / Python back ends, and I like the unglamorous parts: queues, quotas, upload paths, auth flows and failure handling.
 
 From 2023 to 2026 I worked on the engineering of an **event-photography platform**: a photographer uploads thousands of photos from an event, and each guest registers with a selfie and receives only the photos they appear in. I worked across the web client, the API, the processing pipeline, a desktop application and the marketing site.
 
-**The company's repositories are private.** Nothing here is source code from them. This repository contains written case studies of work I did personally, with the architecture described at a level the company has approved for public discussion. Where I worked alongside other developers, I say so, and I only claim what I built.
+**The project's repositories are private, and I can't reveal them in public.** That is why this repository exists: it gives you an overview of what I built, in the form of two written case studies, without exposing the code. Nothing here is source code from the project. The architecture is described at a high level, and where I worked alongside other developers I say so. I only claim what I built myself.
+
+If you would like evidence of my contributions (dates, commit messages and a live walkthrough of the history), I can share it directly on request.
 
 ---
 
@@ -23,7 +25,7 @@ The two case studies describe the two ends of the same system, so they can be re
 
 - **Front end:** most of a React + Vite single-page application (roughly 25,000 lines still in the codebase were written by me), including the upload system, the guest registration and selfie-capture flow, the photographer's event workspace, and the gallery / selection screens.
 - **Back end:** the large majority of a Node.js (Express) API (roughly 17,000 surviving lines), including the upload pipeline, authentication, face-recognition integration and job workers, and subscription / quota enforcement.
-- **Desktop product and web presence:** part of a local-first desktop application and its cloud relay (sign-in with OAuth 2.0 / OIDC + PKCE, an event-lifecycle state machine, relay hardening), co-developed with a colleague, and the public marketing site (static React with prerendering and per-route SEO).
+- **Desktop product and web presence:** part of a local-first desktop application and its cloud relay (sign-in with OAuth 2.0 / OIDC + PKCE, an event-lifecycle state machine, relay hardening), co-developed with another developer, and the public marketing site (static React with prerendering and per-route SEO).
 
 These are my own measurements of authorship from version-control history; I am happy to walk through them in an interview.
 

@@ -1,6 +1,6 @@
 # Frontend case study: a quota-aware bulk photo uploader in React
 
-> **DRAFT. Requires confidentiality review and company approval before publishing.** Describes my own contribution to a private codebase; contains no company source code.
+> Describes my own contribution to a project whose repositories are private and can't be made public. This is an overview only: it contains no source code.
 
 [← Back to portfolio](../README.md) · Companion: [Backend case study](../backend/contributions.md)
 
